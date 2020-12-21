@@ -1,0 +1,4 @@
+*.jpg
+*.pth
+.python-version
+runtime.txt
